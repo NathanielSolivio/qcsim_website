@@ -1,0 +1,12 @@
+{
+    "name": "qcsim/qcsim",
+    "description": "QCSim - Virtual Pharmaceutical QC Laboratory",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "QCSim\\": "src/"
+        }
+    }
+}
